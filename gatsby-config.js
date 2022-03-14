@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Curious Penguin`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Curious Penguin`,
+      summary: ` – A person who likes to learn and share what they're learning –`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Curious Penguin's blog where they blog about things`,
+    siteUrl: `https://curiouspenguin.io`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `curiouspenguin_`,
     },
   },
   plugins: [
