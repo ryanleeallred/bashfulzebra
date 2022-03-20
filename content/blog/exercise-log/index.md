@@ -3,6 +3,27 @@ title: Exercise Log
 date: "2022-03-15"
 description: "Curious Penguin's exercise log and TMI about bodily functions, weight, etc."
 ---
+### March 19, 2022
+
+It was a cold and windy day. I was running into the wind on the first half of the run which meant that running back with the wind felt amazing by comparison. Still had a little bit of leg issues, but not as bad today. I tried to wear loose socks and pre-emptively stop to let my blood flow catch back up. 
+
+This was my fastest 5k since having the Nike Run Club app which I've had since October 2018. Just goes to show that I haven't gone running very consistently in the past four years. Consistency is my ultimate goal.
+
+My first mile took 9:27. My fastest mile since I've had the Nike Run Club app is 8:30, but that was mostly downhill, so I'm not sure that it counts. 
+
+| Exercise        | Distance | Time Elapsed | Average Pace |
+|-----------------|----------|--------------|--------------|
+| Running         | 3.18 mi  | 32:19        | 10:09        |
+
+
+### March 17, 2022
+
+Ran a 5k, first mile was 9:54 pace which is my fastest mile so far. My legs and feet started to go numb in the third mile so I had to set down while the blood flow caught back up again. This wasn't a problem on Tuesday, so I'm wondering why it comes and goes. 
+
+| Exercise        | Distance | Time Elapsed | Average Pace |
+|-----------------|----------|--------------|--------------|
+| Running         | 3.15 mi  | 32:58        | 10:28        |
+
 
 ### March 15, 2022
 
@@ -18,7 +39,6 @@ Went on a walk with the fam after dinner for another 1.3 miles, so I'm counting 
 | Walking         | 1.3 mi   | 32:00        | 24:36        |
 | Total           | 4.43     | 1:09:30      |              |
 
-___
 
 ### March 14, 2022
 

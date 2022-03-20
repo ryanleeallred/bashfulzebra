@@ -50,7 +50,7 @@ const Bio = () => {
             Follow me on Twitter
           </a>
           <section>
-            <h3>Total Miles Run or Walked: 9.06</h3>
+            <h3>Total Miles Run or Walked: 15.39</h3>
           </section>
         </p>
       )}
