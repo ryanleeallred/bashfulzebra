@@ -1,8 +1,33 @@
 ---
 title: Exercise Log
-date: "2022-03-15"
+date: "2022-03-27"
 description: "Curious Penguin's exercise log and TMI about bodily functions, weight, etc."
 ---
+
+### March 26, 2022
+
+Decided to ride a road bike today to work a different muscle group. Rode 12.4 miles in 53:18. Burned 467 calories which is about what I would burn in a typical run, so I'm happy about it. My heart rate definitely wasn't as high though. But maybe that's a good thing.
+
+| Exercise        | Distance | Time Elapsed | Average Pace |
+|-----------------|----------|--------------|--------------|
+| Cycling         | 12.4 mi  | 53:18        | 4:30         |
+
+### March 24, 2022
+
+I was sick yesterday so I didn't get out when I wanted to. Today was mostly about just getting back on the horse and going out. I wasn't planning on going very hard, but then I felt pretty good after the first 5k. If I stop and sit for 30 seconds to let my blood flow catch up when my feet start to go numb then I feel really good when I start again. That made it so that I felt comfortable going a bit further. I decided to try for a 10k to set a new PR there. New 10K PR is 1:05:28. The last couple of miles were a mixture of walking and running as I had to pause for a few seconds here and there to recover. Once I start running these distances more consistently I will need to find a better route because I'm just winding all over my neighborhood. 
+
+| Exercise        | Distance | Time Elapsed | Average Pace |
+|-----------------|----------|--------------|--------------|
+| Running         | 6.24 mi  | 1:05:59      | 10:34        |
+
+### March 21, 2022
+
+Super cold and windy again. My goal today was just to run for as long as I could without stopping. Went 4.05 miles in 41:09. Set a new 5k PR for myself running it in 30:53. I hope I can get it to sub 30 minutes soon.
+
+| Exercise        | Distance | Time Elapsed | Average Pace |
+|-----------------|----------|--------------|--------------|
+| Running         | 4.05 mi  | 41:09        | 10:08        |
+
 ### March 19, 2022
 
 It was a cold and windy day. I was running into the wind on the first half of the run which meant that running back with the wind felt amazing by comparison. Still had a little bit of leg issues, but not as bad today. I tried to wear loose socks and pre-emptively stop to let my blood flow catch back up. 
